@@ -17,7 +17,7 @@
         .one, .two, .three  {
             width: 33%;
             background-color: red;
-            height: 400px;
+            height: 300px;
            
             margin: auto;
             display: flex;
